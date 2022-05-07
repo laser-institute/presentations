@@ -1,5 +1,6 @@
 ---
-  title: "LASER Institute Deep Dive: "
+  title: "Learning Analytics in STEM Ed Research (LASER) Institute: A Deeper Dive into Curriculum & Pedagogy"
+  subtitle: "test" 
   author: "**Dr. Shaun Kellogg**"
   institute: "Instituttional Affiliation"
   date: '`r format(Sys.time(), "%B %d, %Y")`'
@@ -65,12 +66,22 @@ xaringanExtra::use_tile_view()
 ---
 # Agenda
 
-<br>
-## Part 1: Pandemic Pedagogy
-## 2. Looking Back on 2021
-## 3. Looking Ahead to 2022
-## 4. Learning Lab Demo
+.pull-left[
+## Part 1
+### The LASER Institute 2021.0 (Virtual) 
+- Core Curriculum 
+- Pandemic Pedagogy   
+- Getting Started Demo  
+]
 
+.pull-right[
+## Part 2 
+### LASER Institute 2022.0 (Hybrid) 
+- Curriculum Changes
+- Pedagogical Shifts   
+- Learning Lab Demo  
+
+]
 
 ---
 class: clear, middle, center
@@ -281,25 +292,18 @@ https://www.fi.ncsu.edu/projects/laser-institute/
 - https://github.com/
 
 ---
-class: inverse, clear, center
+class: clear, center
 
 ## .font130[.center[**Thank you!**]]
 
-.left-col[
-.center[<img style="border-radius:50%;" src="img/shaun.jpeg" height="120px"/><br/>**Shaun Kellogg**<br/><mailto:sbkellog@ncsu.edu>]
-]
-.center-col[
-.center[]
-]
-.right-col[
-.center[<img style="border-radius: 50%;" src="img/jenn.jpeg" height="120px"/><br/>**Jennifer Houchins**<br/><mailto:jkhouchi@ncsu.edu>]
-]
-<br/><br/><br/><br/><br/>
 
-.pull-left-narrow[<br/>.center[<img style="border-radius: 50%;" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" height="100px"/> ]]
+.center[<img style="border-radius:50%;" src="img/shaun.jpeg" height="200px"/><br/>**Shaun Kellogg**<br/><mailto:sbkellog@ncsu.edu>]
+
+.pull-left-narrow[.center[<img style="border-radius: 50%;" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" height="150px"/> ]]
 
 .pull-right-wide[
 .left[.font70[
+
 This work was supported by the National Science Foundation grant DRL-2025090 (ECR:BCSER). Any opinions, findings, and conclusions expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 ]]
 ]
