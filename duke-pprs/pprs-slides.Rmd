@@ -71,7 +71,7 @@ xaringanExtra::use_tile_view()
 ### The LASER Institute 2021.0 (Virtual) 
 - Core Curriculum 
 - Pandemic Pedagogy   
-- Getting Started Demo  
+- Interactive Demo  
 ]
 
 .pull-right[
@@ -79,19 +79,16 @@ xaringanExtra::use_tile_view()
 ### LASER Institute 2022.0 (Hybrid) 
 - Curriculum Changes
 - Pedagogical Shifts   
-- Learning Lab Demo  
+- Summer Discussion
 
 ]
 
 ---
 class: clear, middle, center
 
+.center[ ## .font130[.center[**Meet the Team**]]
 
-
-.center[ 
-Meet Our Team
-
-<img src="img/LASERteam.png" height="490px"/>]
+<img src="img/LASERteam.png" height="450px"/>]
 
 
 ---
@@ -102,6 +99,93 @@ class: clear, inverse, middle, center
 
 Curriculum, Pedagogy, and Interactive Demo
 
+
+---
+# LASER Curriculum  
+
+.panelset[
+
+.panel[.panel-name[Learners]
+
+.pull-left[
+The [LASER Institute](https://www.fi.ncsu.edu/projects/laser-institute/) is a **professional development program** for: 
+- Early and mid-career researchers
+- 
+]
+
+.pull-right[
+<img src="img/website.png" height="470px"/>
+]
+]
+
+
+
+.panel[.panel-name[Content]
+
+.pull-left[
+### Discplinary
+- [What is LA?](https://ncsu.qualtrics.com/jfe/preview/SV_5w2Ayiu2UriAz3M?Q_CHL=preview&Q_SurveyVersionID=current) 
+- Data Sources in LA
+
+]
+
+.pull-right[
+### Methodological
+- Foundations
+- Data Visualization
+- Machine Learning
+- Text Mining
+- Network Analysis 
+
+
+
+
+]
+
+]
+
+.panel[.panel-name[Goals]
+
+.pull-left[
+
+### Relationship & Strength
+- Friendships (friend, best friend)
+- Co-Author/Presenter (# of pubs)
+- Assignment Partner
+- Committee Members
+
+]
+
+
+.pull-right[
+
+### Interactions & Frequency
+- Online Discussion (# of replies/DMs)
+- Support Seeking (how often)
+- Confidential Exchanges
+- Communications
+
+]
+
+
+]
+
+
+
+
+.panel[.panel-name[Objectives]
+
+Consider the following quesions about a network you may be interested in studying:
+- What is the boundary of this network? 
+- What relations within this network might be of interest to your research? 
+- What attributes about actors in this network might you want to 
+- How might you collect data about these actors and their relations? 
+
+Record your response in the chat. 
+
+]
+
+]
 
 
 ---
