@@ -120,7 +120,7 @@ The [LASER Institute](https://www.fi.ncsu.edu/projects/laser-institute/) is a **
 
 
 
-.panel[.panel-name[Content]
+.panel[.panel-name[Content ]
 
 .pull-left[
 ### Discplinary
