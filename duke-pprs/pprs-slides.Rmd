@@ -61,7 +61,7 @@ xaringanExtra::use_tile_view()
 ### `r rmarkdown::metadata$author`
 ### `r format(Sys.time(), "%B %d, %Y")`
 <br>
-### Slides: [go.ncsu.edu/pprs-laser](https://www.fi.ncsu.edu/projects/laser-institute/)
+### Slides: [go.ncsu.edu/laser-pprs](https://laser-institute.github.io/presentations/duke-pprs/pprs-slides.html)
 
 ---
 class: clear, middle, center
