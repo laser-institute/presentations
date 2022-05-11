@@ -87,7 +87,7 @@ class: clear, middle, center
 ### LASER Institute 2022.0 (Hybrid) 
 - Lessons Learned
 - Diving Deeper   
-- Summer Schedule
+- Workshop Discussion
 
 ]
 
@@ -97,7 +97,7 @@ class: clear, inverse, middle, center
 
 # Part 1: The LASER Insitute 2021.0 
 
-Curriculum, Pedagogy, and Interactive Demo
+Curriculum, Pedagogy, and Demo
 
 
 ---
@@ -159,15 +159,15 @@ The [LASER Institute](https://www.fi.ncsu.edu/projects/laser-institute/) is a **
 
 .panel[.panel-name[Learning Objectives]
 
-- Describe STEM education **questions/issues** addressed by LA
+- Identify STEM research **questions/problems** addressed by LA
 
-- Identify relevant and appropriate STEM ed **data sources** for analysis
+- Work with new types of STEM **data sources** these questions/problems
 
 - Apply **computational techniques** to prepare, explore and model STEM data
 
-- Evaluate both the **technical feasibility and ethical issues** in associated with LA
+- Evaluate the **technical feasibility and ethical issues** associated with these data and techniques
 
-- Develop a **collaborative research agenda** in STEM education that seeks to address challenges in STEM education from a LA lens
+- Develop a **collaborative research agenda** in that seeks to address challenges in STEM education from a LA lens
 
 ]
 
@@ -201,7 +201,7 @@ Provide hands-on experience with R to:
 .panel[.panel-name[Guest Speakers]
 
 .pull-left[
-Discussed topics addressing both: 
+Discuss topics addressing both: 
 - **Disciplinary** issues and concepts that distinguish LA from other research and teaching fields
 
 - **Methodological** overviews and applications in their own research and practice
@@ -259,7 +259,7 @@ class: clear, middle, center
 
 .center[ ## .font130[.navy[.center[**Interactive Demo!**]]]
 
-https://rstudio.cloud/spaces/140883
+https://go.ncsu.edu/pprs-demo
 ]
 
 ---
@@ -312,6 +312,8 @@ Lessons Learned, Instructional Shifts, and Discussion
 
 <img style="float: left; padding: 30px;" src="img/moodle.png" height="125px"/>
 
+<img style="float: left; padding: 30px;" src="img/zoom.png" height="125px"/>
+
 <img style="float: left; padding: 30px;" src="img/flipgrid.png" height="125px"/>
 
 <img style="float: left; padding: 30px;" src="img/Octocat.png" height="125px"/>
@@ -352,12 +354,12 @@ Lessons Learned, Instructional Shifts, and Discussion
 .panelset[
 
 .panel[.panel-name[Learning Labs]
-Each Content Area (e.g. Data Viz, Text Mining, Machine Learning) will consist of four progressively sequenced Learning Labs that each include: 
-- **Overview presentation** to summarize core concepts and practice key R skills
+Each Content Area (e.g. Data Viz, Text Mining, Machine Learning) will consist of four progressively sequenced Learning Labs that include: 
+- **Intro Workshop** to summarize core concepts and practice key R skills
 - **Essential reading(s)** and discussions that unpack core concepts
-- **Guided practice** with key R skills consisting of a [Case Study](https://laser-institute.github.io/aera-workshop/pages/text-mining-demo.html) (ML, TM, and SNA) or [tutorial](https://rstudio.cloud/learn/primers)
+- **Guided practice** with key R skills consisting of a [Case Study](https://laser-institute.github.io/aera-workshop/pages/text-mining-demo.html) (ML, TM, and SNA) or [tutorial](https://rstudio.cloud/learn/primers) (FLA, VIZ)
 - **Independent analysis** that applies the concepts/skills to a dataset provided or their own 
-- A **badge/microcredential** for demonstrating their competency
+- A **badge/microcredential** that demonstrates their competency
 
 
 ]
@@ -381,8 +383,8 @@ Our Guest Speaker series will feature authors of the recently updated [Handbook 
 We've partnered with [Participate, Inc.](https://www.participate.com) to help us: 
 - develop in-person and online **community-building activities**
 - organize **affinity groups** for collaborative research 
-- facilitate monthly **progress updates** with scholars
-- moderate discussions forums 
+- structure monthly **progress updates** with scholars
+- facilitate online **discussions forums** 
 
 ]
 
@@ -393,7 +395,7 @@ We've partnered with [Participate, Inc.](https://www.participate.com) to help us
 ---
 class: clear, middle, center
 
-.center[ ## .font130[.navy[.center[**Summer Schedule**]]]
+.center[ ## .font130[.navy[.center[**Summer Workshop Discussion**]]]
 
 https://go.ncsu.edu/laser-schedule
 ]
