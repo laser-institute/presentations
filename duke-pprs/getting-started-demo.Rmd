@@ -53,7 +53,7 @@ Click the arrow to the right of the code chunk below to view the image
 in a moment)!
 
 ```{r}
-knitr::include_graphics("laser-cycle.png")
+knitr::include_graphics("img/laser-cycle.png")
 ```
 
 ### How to use this document
