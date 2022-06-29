@@ -61,7 +61,7 @@ xaringanExtra::use_tile_view()
 ### `r rmarkdown::metadata$author`
 ### `r format(Sys.time(), "%B %d, %Y")`
 <br>
-### Slides: [go.ncsu.edu/ncsu-la](https://go.ncsu.edu/ncsu-la)
+### Slides: [go.ncsu.edu/ncsu-la](https://go.ncsu.edu/la-cert)
 
 ---
 class: clear, middle, center
