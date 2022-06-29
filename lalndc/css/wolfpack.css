@@ -113,7 +113,7 @@ a:hover { border-bottom: none; }
   font-weight: 300;
   line-height: 1.5;
   padding: 1em 2em 1em 2em;
-  background-image: url(../img/fi-logo.png); /*alternatively can be ncstate-text.png */
+  background-image: url(../img/x.png); /*alternatively can be ncstate-text.png */
   background-position: 95% 95%; 
   background-size: 25%;
 }
@@ -203,6 +203,9 @@ h2, h3, h4 {
 .title-slide {
   background-color: var(--wolfpack-white);
   border-top: 80px solid var(--wolfpack-white);
+  background-image: url(../img/fi-logo.png);
+  background-position: 95% 90%; 
+  background-size: 40%;
 }
 
 .title-slide h1  {
